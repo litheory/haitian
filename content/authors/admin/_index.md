@@ -1,6 +1,6 @@
 ---
 title: 海天人力
-role: 您的人力资源管家
+role: 您身边的人力资源管家
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -22,19 +22,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 阆中市海天人力资源有限公司
+    url: 91511381555783192C
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
