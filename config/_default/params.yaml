@@ -15,14 +15,14 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Company
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    # twitter: 'wowchemy'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: 'b6cf4ed699f37065588ec8810a50ea76'
   verification:
     google: ''
     baidu: ''
@@ -43,19 +43,19 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 阆中市海天人力资源有限公司'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: zh
 
 # Site features
 
